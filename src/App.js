@@ -420,7 +420,7 @@ function App() {
               //adjusted bottom text bar 2  
             }}
           >
-            - Whitelist price will be .035 ETH (2 mints) and for public will be .05 ETH (3 mints)
+            - Whitelist price will be .035 ETH (2 mints) and for public will be .05 ETH (5 mints)
           </s.TextDescription>
         </s.Container>
       </s.Container>
