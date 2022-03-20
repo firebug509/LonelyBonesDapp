@@ -171,8 +171,8 @@ function App() {
 
   const incrementMintAmount = () => {
     let newMintAmount = mintAmount + 1;
-    if (newMintAmount > 2) {
-      newMintAmount = 2;
+    if (newMintAmount > 5) {
+      newMintAmount = 5;
     }
     setMintAmount(newMintAmount);
   };
@@ -420,7 +420,7 @@ function App() {
               //adjusted bottom text bar 2  
             }}
           >
-            - Whitelist price will be .035 ETH (2 mints) and for public will be .05 ETH (5 mints)
+            - Whitelist price will be .035 ETH (2 mints) and for public will be .05 ETH (5 mints per transaction)
           </s.TextDescription>
         </s.Container>
       </s.Container>
