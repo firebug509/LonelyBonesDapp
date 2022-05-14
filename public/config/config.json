@@ -9,9 +9,9 @@
   "NFT_NAME": "Lonely Bones Club",
   "SYMBOL": "LB",
   "MAX_SUPPLY": 4444,
-  "WEI_COST": 50000000000000000,
-  "DISPLAY_COST": 0.05,
-  "GAS_LIMIT": 285000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.00,
+  "GAS_LIMIT": 185000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/lonely-bones-club",
   "SHOW_BACKGROUND": true
